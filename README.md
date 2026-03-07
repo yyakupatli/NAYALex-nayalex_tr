@@ -1,2 +1,2 @@
-# deneme
-deneme amaçlı oluşturdum
+# NAYALex nayalex_tr
+Türkçe dil desteği NAYALex Duygu Sözlüğü
