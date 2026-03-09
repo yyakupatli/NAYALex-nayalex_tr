@@ -1,2 +1,4 @@
 # NAYALex nayalex_tr
-Türkçe dil desteği NAYALex Duygu Sözlüğü
+Türkçe dil desteği sunan NAYALex Duygu Sözlüğü
+38 farklı duyguyu çıkaran sözlük
+
