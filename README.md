@@ -1,7 +1,7 @@
 # NAYALex nayalex_tr
 Türkçe dil desteği sunan NAYALex Duygu Sözlüğü
 
-38 farklı duyguyu çıkaran sözlük
+38 farklı duyguyu için sonuç veren sözlük
 
 https://dergipark.org.tr/tr/pub/ejosat/article/974886
 
